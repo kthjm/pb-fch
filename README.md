@@ -1,4 +1,4 @@
-# personal boilerplate for front-fetch
+# personal boilerplate for front-fetch-functions
 
 To scratch functions for api that are `fn` and `Fn`.
 
