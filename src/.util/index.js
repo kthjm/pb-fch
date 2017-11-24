@@ -1,3 +1,5 @@
+import regeneratorRuntime from 'regenerator-runtime'
+
 function* loop(hub) {
   while (true) {
     const value = hub.pass()
