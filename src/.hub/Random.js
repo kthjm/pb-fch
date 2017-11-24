@@ -1,3 +1,4 @@
+import regeneratorRuntime from 'regenerator-runtime'
 import { throwTotal, throwCallback } from './common.js'
 
 function* twentyGenerator(offset) {
