@@ -21,7 +21,8 @@
     "format": "prettier --write **/*.js package.json"
   },
   "dependencies": {
-    "jsonp-simple": "^0.0.3"
+    "jsonp-simple": "^0.0.3",
+    "regenerator-runtime": "^0.11.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
