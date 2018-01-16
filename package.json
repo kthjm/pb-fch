@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "jsonp-simple": "^0.0.5",
-    "tiloop": "https://github.com/kthjm/tiloop"
+    "tiloop": "^0.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
