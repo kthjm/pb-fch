@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "jsonp-simple": "^0.0.5",
-    "tiloop": "^0.0.1"
+    "tiloop": "^0.0.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
